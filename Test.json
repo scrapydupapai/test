@@ -208,10 +208,10 @@
         "PLUM_22": "#000000",
         "PLUM_23": "#170005"
    },
-        "background": {
-        "blur": 0.1,
+    "background": {
         "url": "https://i.imgur.com/ZLcnl3m.jpeg",
-        "alpha": 1.0
+        "alpha": 0.5,
+        "color": "#240808"
     },
     "spec": 2
 }
